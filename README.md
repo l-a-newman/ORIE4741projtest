@@ -4,4 +4,4 @@ Name: test project
 
 Collaborators: Laurel Newman (lan66@cornell.edu)
 
-Description: Just testing this out! Testing git changes now!
+Description: Just testing this out!
